@@ -1,0 +1,17 @@
+torch>=2.0.0
+torchvision
+scikit-learn
+imbalanced-learn
+optuna
+shap
+streamlit
+plotly
+pandas
+numpy
+joblib
+sqlalchemy
+tqdm
+rich
+click
+fpdf2
+pytest
